@@ -1,0 +1,11 @@
+<gs:GlobalizationServices xmlns:gs="urn:longhornGlobalizationUnattend">  
+<!--User List--> <gs:UserList> 
+<gs:User UserID="Current"/> 
+</gs:UserList>
+<gs:InputPreferences> 
+ <!-- UK English: 0809, US English 0409 -->
+<!-- Dvorak: 00010409 -->
+ <gs:InputLanguageID Action="add" ID="0809:00010409" Default="true"/> 
+</gs:InputPreferences>
+</gs:GlobalizationServices>
+
